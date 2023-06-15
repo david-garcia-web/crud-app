@@ -1,7 +1,7 @@
 {
   "name": "crud-app",
   "version": "0.1.0",
-  "homepage": "https://david-garcia-web.github.io/aplicacion-crud",
+  "homepage": "https://david-garcia-web.github.io/crud-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
