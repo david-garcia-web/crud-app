@@ -10,4 +10,4 @@ Esta página usa:
 - [React-tooltip](https://www.npmjs.com/package/react-tooltip)
 
 ## Acceder
-Puedes ver la página aquí: https://raulg-cpp.github.io/crud-app-spanish/
+Puedes ver la página aquí: https://david-garcia.github.io/crud-app/
