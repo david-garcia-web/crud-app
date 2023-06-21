@@ -1,16 +1,6 @@
 // Constants
 $break-width: 900px;
 
-	// other
-.watermark {
-	position: absolute;
-	color: white;
-	background-color: darken(white, 15%);
-	opacity: 0.5;
-	font-size: 64px;
-	pointer-events: none;
-}
-
 // Outline
 .App {
 	display: flex;
