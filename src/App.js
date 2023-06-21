@@ -157,7 +157,6 @@ function App() {
 	
 	return (
 	<div className="App">
-		<h1 className="watermark">WATERMARK - RAUL GONZALEZ</h1>
 		<div className="mainBox">
 			<div className="topBox">
 				{/* Header */}
